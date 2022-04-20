@@ -35,5 +35,5 @@ Login Sayfası <br/>
 
 ### Hakkımda:
 *Selim Arda Çevik* <br/>
-*Sakarya Üniversitesi Bilgisayar Mühendisliği 1.Sınıf Öğrencisi*
-*mail:arda.cevik@ogr.sakarya.edu.tr
+*Sakarya Üniversitesi Bilgisayar Mühendisliği 1.Sınıf Öğrencisi* <br/>
+*mail:arda.cevik@ogr.sakarya.edu.tr*
