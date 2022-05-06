@@ -22,7 +22,7 @@ Login Sayfası <br/>
 ### İlerleme
 
 - [x] Başlangıç
-- [ ] Hakkımda sayfası tasarımı
+- [x] Hakkımda sayfası tasarımı
 - [ ] Özgeçmiş sayfası tasarımı
 - [ ] Şehrim sayfası tasarımı
 - [ ] Mirasımız sayfası tasarımı
@@ -37,3 +37,6 @@ Login Sayfası <br/>
 *Selim Arda Çevik* <br/>
 *Sakarya Üniversitesi Bilgisayar Mühendisliği 1.Sınıf Öğrencisi* <br/>
 *mail:arda.cevik@ogr.sakarya.edu.tr*
+
+### Proje Github Linki:
+https://github.com/selimlendiniz/proje
