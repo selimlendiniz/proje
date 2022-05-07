@@ -26,12 +26,12 @@ Login Sayfası <br/>
 - [ ] Özgeçmiş sayfası tasarımı
 - [ ] Şehrim sayfası tasarımı
 - [ ] Mirasımız sayfası tasarımı
-- [ ] İlgi alanlarım sayfası tasarımı
-- [ ] İlgi alanlarım sayfası api ile veri gösterme
+- [x] İlgi alanlarım sayfası tasarımı
+- [x] İlgi alanlarım sayfası api ile veri gösterme
 - [ ] Login sayfası
-- [ ] İletişim Sayfası tasarımı
-- [ ] İletişim Sayfası Formu
-- [ ] Form elemanlarını görüntüleme
+- [x] İletişim Sayfası tasarımı
+- [x] İletişim Sayfası Formu
+- [x] Form elemanlarını görüntüleme
 
 ### Hakkımda:
 *Selim Arda Çevik* <br/>
