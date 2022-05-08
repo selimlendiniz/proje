@@ -23,7 +23,7 @@ Login Sayfası <br/>
 
 - [x] Başlangıç
 - [x] Hakkımda sayfası tasarımı
-- [ ] Özgeçmiş sayfası tasarımı
+- [x] Özgeçmiş sayfası tasarımı
 - [ ] Şehrim sayfası tasarımı
 - [ ] Mirasımız sayfası tasarımı
 - [x] İlgi alanlarım sayfası tasarımı
