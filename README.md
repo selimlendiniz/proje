@@ -24,11 +24,11 @@ Login Sayfası <br/>
 - [x] Başlangıç
 - [x] Hakkımda sayfası tasarımı
 - [x] Özgeçmiş sayfası tasarımı
-- [x] Şehrim sayfası tasarımı
-- [x] Mirasımız sayfası tasarımı
+- [ ] Şehrim sayfası tasarımı
+- [ ] Mirasımız sayfası tasarımı
 - [x] İlgi alanlarım sayfası tasarımı
 - [x] İlgi alanlarım sayfası api ile veri gösterme
-- [x] Login sayfası
+- [ ] Login sayfası
 - [x] İletişim Sayfası tasarımı
 - [x] İletişim Sayfası Formu
 - [x] Form elemanlarını görüntüleme
